@@ -12,7 +12,7 @@ If you don't want to download and host jQuery yourself, you can include it from 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 ```
 
-Then you have to download the source code and add the file "3d-animation.js" in your project.
+Then you have to download the source code and add the file "3d-animation.js" or "3d-animation.min.js" from "dist" folder in your project.
 
 ## Usage
 
