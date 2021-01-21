@@ -1,2 +1,4 @@
 // Function declaration
-var animation = animationStart($('.card'));
+$( document ).ready(function() {
+  animationStart();
+});
