@@ -33,6 +33,12 @@ If you want to change the speed of the objects' movement, just add the **data at
 
 The values can range from _10_ to _25_. Default value is _25_.
 
+## Example
+
+Check out the example: open the **index.html** to see how it works.
+
+You can also add more elements as you can see in the "3d-animation.js" in the sample root folder to make everything more likeable.
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
